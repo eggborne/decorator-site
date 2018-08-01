@@ -1,6 +1,6 @@
 body {
  margin: 10%;
- background-color: grey;
+ background-color: #eee;
 }
 .column {
   box-sizing: border-box;
@@ -9,9 +9,14 @@ body {
   padding: 10px;
 }
 .left {
+  background-color: #faa;
   float:left;
 }
+.center {
+  background-color: #afa;
+}
 .right {
+  background-color: #aaf;
   float:right;
 }
 img {
