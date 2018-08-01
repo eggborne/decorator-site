@@ -1,0 +1,19 @@
+body {
+ margin: 10%;
+ background-color: grey;
+}
+.column {
+  box-sizing: border-box;
+  display: inline-block;
+  width:calc(100% / 3);
+  padding: 10px;
+}
+.left {
+  float:left;
+}
+.right {
+  float:right;
+}
+img {
+  width:100%;
+}
